@@ -1,0 +1,15 @@
+D:\Vitória Santana DDS01\Extra03\Extra03\bin\Debug\net8.0\Extra03.exe
+D:\Vitória Santana DDS01\Extra03\Extra03\bin\Debug\net8.0\Extra03.deps.json
+D:\Vitória Santana DDS01\Extra03\Extra03\bin\Debug\net8.0\Extra03.runtimeconfig.json
+D:\Vitória Santana DDS01\Extra03\Extra03\bin\Debug\net8.0\Extra03.dll
+D:\Vitória Santana DDS01\Extra03\Extra03\bin\Debug\net8.0\Extra03.pdb
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.AssemblyInfo.cs
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.sourcelink.json
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.dll
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\refint\Extra03.dll
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.pdb
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\Extra03.genruntimeconfig.cache
+D:\Vitória Santana DDS01\Extra03\Extra03\obj\Debug\net8.0\ref\Extra03.dll
