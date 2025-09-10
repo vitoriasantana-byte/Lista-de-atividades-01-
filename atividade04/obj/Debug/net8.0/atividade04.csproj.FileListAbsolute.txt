@@ -1,0 +1,15 @@
+D:\Vitória Santana DDS01\atividade04\bin\Debug\net8.0\atividade04.exe
+D:\Vitória Santana DDS01\atividade04\bin\Debug\net8.0\atividade04.deps.json
+D:\Vitória Santana DDS01\atividade04\bin\Debug\net8.0\atividade04.runtimeconfig.json
+D:\Vitória Santana DDS01\atividade04\bin\Debug\net8.0\atividade04.dll
+D:\Vitória Santana DDS01\atividade04\bin\Debug\net8.0\atividade04.pdb
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.AssemblyInfo.cs
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.sourcelink.json
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.dll
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\refint\atividade04.dll
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.pdb
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\atividade04.genruntimeconfig.cache
+D:\Vitória Santana DDS01\atividade04\obj\Debug\net8.0\ref\atividade04.dll
