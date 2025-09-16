@@ -1,0 +1,15 @@
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\bin\Debug\net8.0\Atividade16.exe
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\bin\Debug\net8.0\Atividade16.deps.json
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\bin\Debug\net8.0\Atividade16.runtimeconfig.json
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\bin\Debug\net8.0\Atividade16.dll
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\bin\Debug\net8.0\Atividade16.pdb
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.AssemblyInfo.cs
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.sourcelink.json
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.dll
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\refint\Atividade16.dll
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.pdb
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\Atividade16.genruntimeconfig.cache
+D:\Vitória Santana DDS01\Atvs01\Atividade16\Atividade16\obj\Debug\net8.0\ref\Atividade16.dll
